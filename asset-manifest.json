@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/multiground/static/css/main.08e531f7.chunk.css",
+    "main.js": "/multiground/static/js/main.dd8bb174.chunk.js",
+    "main.js.map": "/multiground/static/js/main.dd8bb174.chunk.js.map",
+    "runtime-main.js": "/multiground/static/js/runtime-main.36d0d604.js",
+    "runtime-main.js.map": "/multiground/static/js/runtime-main.36d0d604.js.map",
+    "static/js/2.9dc561b9.chunk.js": "/multiground/static/js/2.9dc561b9.chunk.js",
+    "static/js/2.9dc561b9.chunk.js.map": "/multiground/static/js/2.9dc561b9.chunk.js.map",
+    "static/js/3.773d609e.chunk.js": "/multiground/static/js/3.773d609e.chunk.js",
+    "static/js/3.773d609e.chunk.js.map": "/multiground/static/js/3.773d609e.chunk.js.map",
+    "index.html": "/multiground/index.html",
+    "static/css/main.08e531f7.chunk.css.map": "/multiground/static/css/main.08e531f7.chunk.css.map",
+    "static/js/2.9dc561b9.chunk.js.LICENSE.txt": "/multiground/static/js/2.9dc561b9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/multiground/static/media/MultiGround.eaa1db42.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36d0d604.js",
+    "static/js/2.9dc561b9.chunk.js",
+    "static/css/main.08e531f7.chunk.css",
+    "static/js/main.dd8bb174.chunk.js"
+  ]
+}

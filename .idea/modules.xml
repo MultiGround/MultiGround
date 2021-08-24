@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mulgweb.iml" filepath="$PROJECT_DIR$/.idea/mulgweb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../roadtoreact/.idea/roadtoreact.iml" filepath="$PROJECT_DIR$/../roadtoreact/.idea/roadtoreact.iml" />
-    </modules>
-  </component>
-</project>
