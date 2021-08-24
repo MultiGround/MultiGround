@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "멀티그라운드",
+  "name": "멀티그라운드 마인크래프트 서버",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "logo8.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
